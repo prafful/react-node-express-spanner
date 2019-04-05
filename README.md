@@ -1,3 +1,5 @@
+react using axios to get data from REST API made using express-google-spanner (https://github.com/prafful/node-express-spanner)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
